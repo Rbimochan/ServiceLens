@@ -39,3 +39,16 @@ ServiceLens/
 ## Phase 1 Setup Status
 
 Phase 1 verifies the project structure, Python dependency list, starter notebook, source package marker, and setup verification script. No data analysis or results are included in this phase.
+
+## Planned Academic Workflow
+
+The project structure is prepared for the following future phases. These phases are not executed in the setup stage:
+
+1. Phase 3 Dataset Loading
+2. Phase 4 Data Dictionary
+3. Phase 5 Structure Analysis
+4. Phase 6 Data Quality
+5. Phase 7 Datetime Validation
+6. Phase 8 CSAT Understanding
+7. Phase 9 Exploratory Profiling
+8. Phase 10 Reporting
